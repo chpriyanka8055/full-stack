@@ -1,0 +1,175 @@
+    1  GIT--VERSION
+    2  GIT --VERSION
+    3  GIT --VERSION
+    4  pwd
+    5  ls
+    6  ls-a-hidden
+    7  ls-a-hidden files and folders
+    8  cd-change the directory
+    9  cd  qw
+   10  cd BRAHMAIAH
+   11  CD DESKTOP
+   12  cd desktop
+   13  cd <download>
+   14  cd ..
+   15  cd desktop
+   16  cd raptor
+   17  cd ..
+   18  cd --
+   19  cd desktop
+   20  cd desktop/
+   21  clear
+   22  mkdir FULLSTACKDEV
+   23  LS
+   24  CD FULLSTACKDEV/
+   25  CD FULLSTACKDEV
+   26  CLEAR 
+   27  MKDIR PICTURES
+   28  LS
+   29  CD ..
+   30  cd ..
+   31  cd --
+   32  cd SRI SAI GLASS WORK.xlsx'
+   33  ls
+   34  mkdir SRI SAI GLASS WORK.xlsx'
+   35  clear
+   36  mkdir desktop
+   37  mkdir download
+   38  ls
+   39  templates@
+   40  clear
+   41  touch full_stack.txt
+   42  ls
+   43  cat full_stack.txt
+   44  echo
+   45  echo "full stack developer">full_stack.txt
+   46  echo "full stack developer" > full_stack.txt
+   47  desktop
+   48  cd desktop
+   49  touch full_stack.txt
+   50  ls
+   51  cd pictures
+   52  ls
+   53  cd desktop/
+   54  cd full_stack.txt
+   55  clear
+   56  cd desktop
+   57  clear
+   58  mkdir desktop
+   59  cd..
+   60  cd ..
+   61  cd
+   62  cd desktop/
+   63  cd FULLSTACKDEV
+   64  touch full_stack.txt
+   65  car full_stack.txt
+   66  cat full_stack.txt
+   67  echo "full stack developer"> full_stack.txt
+   68  touch full_stack.txt
+   69  ls
+   70  cat full_stack.txt
+   71  echo "full stack developer"> full_stack.txt
+   72  echo "HTML and CSS" > full_stack.txt
+   73  cat full_stack.txt
+   74  echo "java script">> full_stack.txt
+   75  cat full_stack.txt
+   76  gedit full_stack.txt
+   77  nano full_stack.txt
+   78  nano full_stack.txt
+   79  nano full_stack.txt
+   80  cat full_stack.txt
+   81  nano data.txt
+   82  cat data.txt
+   83  nano process.txt
+   84  cat process.txt
+   85  nano process.txt
+   86  cat process.txt
+   87  rm help
+   88  rm --help
+   89  rm process.txt
+   90  ls
+   91  rm -f process.txt
+   92  rm -d <process.txt>
+   93  mkdir git
+   94  ls
+   95  git init
+   96   git status
+   97  git status
+   98  git add full_stack.txt
+   99  git add <full_stack.txt>...
+  100  git status
+  101  git commit -m "first comit"
+  102  git commit -m "first commit"
+  103  git config --global user.email '221710308014@gitam.in'
+  104  git commit -m "first comit"
+  105  clear
+  106  pwd
+  107  GIT --VERSION
+  108  git commit -m "first commit"
+  109  mkdir full_stack.txt
+  110  cd full_stack.txt
+  111  cd full_stack.txt
+  112  mkdir full_stack.txt
+  113  mkdir desktop
+  114  pwd
+  115  ls
+  116  desktop
+  117  mkdir <full_stack.txt>
+  118  mkdir FULLSTACKDEV
+  119  cd desktop/
+  120  cd FULLSTACKDEV
+  121  GIT COMMIT -M "first commit"
+  122  git config --global user.email '221710308014@gitam.in'
+  123  git config --global user.name 'priya'
+  124  git config --global user.name >>'priya'
+  125  clear
+  126  nano full_stack.txt
+  127  git status
+  128  git commit -m "first commit"
+  129  GIT COMMIT -M "second commit"
+  130  git commit -m "second commit"
+  131  mkdir full-stack
+  132  ls 
+  133  git remote -help
+  134  git remote add full-stack
+  135  git remote add https://github.com/chpriyanka8055/full-stack
+  136  git remote show
+  137  git remote FULL-STACKhttps://github.com/chpriyanka8055/full-stack
+  138  git remote add FULL-STACK https://github.com/chpriyanka8055/full-stack
+  139  git remote show
+  140  git remove -v
+  141  git remote -v
+  142  git pull FULL-STACK master
+  143  git push -u FULL-STACK
+  144  git push --set-uostream FULL-STACK master
+  145  git push -f --set-upstream FULL-STACK master
+  146  none full_stack.txt
+  147  touch full_stack.txt
+  148  ls
+  149  echo "html and css" > full_stack.txt
+  150  cat full_stack.txt
+  151  nano full_stack.txt
+  152  nano full_stack.txt
+  153  git status
+  154  mkdir git
+  155  git status
+  156  git commit -m 'first commit"
+  157  git commit -m "first commit"
+  158  git commit -m "first commit"
+  159  cd desktop
+  160  cd fullstackdev
+  161  cd full_stack.txt
+  162  git commit -m "first commit"
+  163  echo "devlop by a devlopers of api" >full_stack.txt
+  164  cd full_stack.txt
+  165  cat full_stack.txt
+  166  nano full_stack.txt
+  167  echo "jquery" >full_stack.txt
+  168  cat full_stack.txt
+  169  nano full_stack.txt
+  170  git commit -m "first commit"
+  171  git add full_stack.txt
+  172  git status
+  173  git commit -m "second commit"
+  174  history
+  175  history 448 > gitcommands.txt
